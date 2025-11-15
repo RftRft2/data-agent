@@ -267,11 +267,5 @@ MIT License - see LICENSE file for details
 - Powered by [OpenRouter](https://openrouter.ai/)
 - Data visualization with [Matplotlib](https://matplotlib.org/) and [Seaborn](https://seaborn.pydata.org/)
 
-## 📧 Contact
 
-For questions or feedback, please open an issue on GitHub.
-
----
-
-**Made with ❤️ to showcase LangChain expertise**
 

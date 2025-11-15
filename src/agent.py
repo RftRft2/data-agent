@@ -5,8 +5,8 @@ Demonstrates advanced LangChain features: LCEL chains, pipes, runnables, and too
 import pandas as pd
 from typing import Any, Dict, List, Optional
 from langchain.chat_models import ChatOpenAI
-from langchain.agents import create_pandas_dataframe_agent, AgentType
-from langchain_experimental.agents.agent_toolkits import create_pandas_dataframe_agent as create_pandas_agent_experimental
+from langchain.agents import AgentType
+from langchain_experimental.agents.agent_toolkits import create_pandas_dataframe_agent
 from langchain.tools import tool
 from langchain.prompts import PromptTemplate
 from langchain.schema import HumanMessage, AIMessage
