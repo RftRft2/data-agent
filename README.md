@@ -267,5 +267,15 @@ MIT License - see LICENSE file for details
 - Powered by [OpenRouter](https://openrouter.ai/)
 - Data visualization with [Matplotlib](https://matplotlib.org/) and [Seaborn](https://seaborn.pydata.org/)
 
+## 📧 Contact & Repository
+
+- **GitHub Repository**: [altuyerli/data-visualization-agent](https://github.com/altuyerli/data-visualization-agent)
+- **Author**: [Altuğ Yerli](https://github.com/altuyerli)
+- For questions or feedback, please open an issue on GitHub
+
+---
+
+
+
 
 
