@@ -269,8 +269,8 @@ MIT License - see LICENSE file for details
 
 ## 📧 Contact & Repository
 
-- **GitHub Repository**: [altuyerli/data-visualization-agent](https://github.com/altuyerli/data-visualization-agent)
-- **Author**: [Altuğ Yerli](https://github.com/altuyerli)
+- **GitHub Repository**: [altugyerli/data-vix-agent](https://github.com/altugyerli/data-vix-agent)
+- **Author**: [Altuğ Yerli](https://github.com/altugyerli)
 - For questions or feedback, please open an issue on GitHub
 
 ---

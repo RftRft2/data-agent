@@ -17,7 +17,7 @@ To push this project to GitHub, follow these steps:
 
 ```bash
 # Add the remote repository
-git remote add origin https://github.com/altuyerli/data-visualization-agent.git
+git remote add origin https://github.com/altugyerli/data-vix-agent.git
 
 # Rename branch to main if needed
 git branch -M main
@@ -28,7 +28,7 @@ git push -u origin main
 
 ### 3. Verify
 
-Visit `https://github.com/altugyerli/data-visualization-agent` to see your repository.
+Visit `https://github.com/altugyerli/data-vix-agent` to see your repository.
 
 ## Local Development Setup
 
