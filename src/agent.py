@@ -1,8 +1,10 @@
 """
 Data Visualization Agent using LangChain LCEL
 Demonstrates advanced LangChain features: LCEL chains, pipes, runnables, and tools
+Enhanced with improved error handling and logging
 """
 import pandas as pd
+import logging
 from typing import Any, Dict, List, Optional
 from langchain.chat_models import ChatOpenAI
 from langchain.agents import AgentType
@@ -20,6 +22,7 @@ from src.config import (
     AGENT_VERBOSE,
     AGENT_RETURN_INTERMEDIATE_STEPS,
     AGENT_HANDLE_PARSING_ERRORS,
+    logger,
 )
 from src.tools import get_tools
 
